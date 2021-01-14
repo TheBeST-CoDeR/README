@@ -1,2 +1,4 @@
 # README
-Ma'lumotlar
+Git-hub haqida ma'lumot
+
+edit
