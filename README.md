@@ -1,0 +1,2 @@
+# README
+Ma'lumotlar
